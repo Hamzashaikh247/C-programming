@@ -4,9 +4,9 @@
     operator to print if the student is eligible for admission. Eligibility criteria is 50% in
     PCM.
 
-    Name: Ansari Huzaifa Javed Ahmed
-    Class & Div: ECS-E
-    UIN: 241S035
+    Name:Shaikh Mohd Hamza Anis
+    Class & Div: mech-B
+    UIN: 241M003
  */
 
 
