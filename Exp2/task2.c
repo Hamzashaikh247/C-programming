@@ -3,9 +3,9 @@
     Title : WAP to find the sum of all the odd numbers between numbers entered by the
             user.
 
-    Name: Ansari Huzaifa Javed Ahmed
-    Class & Div: ECS-E
-    UIN: 241S035
+    Name:Shaikh Mohd Hamza Anis
+    Class & Div: mech-b
+    UIN: 241M003
  */
 
 
